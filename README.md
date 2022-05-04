@@ -1,7 +1,4 @@
 
-
-
-
 ```sql
 USE [DB_LUIS_PACHARAN]
 GO
@@ -29,14 +26,26 @@ ALTER PROCEDURE [dbo].[SP_MY_SKILLS] AS
 		 insert into @Frameworks values ('MSSQLServer'),('Teradata'), ('DBVisualizer'), ('Jupyter'),('VSCode')
 		  select * from @Frameworks
 	END
-  ```
+```
+- 👋 Hola,Soy Luis Enrique
 
+### Mis Competencias son
 
-- 👋 Hi, I’m @LuisPacharan
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- Extracción,Transformación y Carga de Datos (ETL).
+- Elaboración de DTS mediante (SSIS) SQL Server Integrations Services con Visual Studio.
+- Microsoft SQL Server, atomatización de procesos (scheduled jobs,stored procedures). 
+- MySQL, Teradata, DBVisualizer.
+- Análisis Exploratio de Datos (EDA) con Python.
+- PHP + HTML.
+
+---
+- 📫 
+### Me puedes contactar por una de estas vías
+
+- [LinkedIn](https://www.linkedin.com/in/luis-enrique-pacheco-arana/)
+- [GitHub](https://github.com/LuisPacharan/)
+- [Medium](https://medium.com/@pacheco.arana.luis)
+
 
 <!---
 LuisPacharan/LuisPacharan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
