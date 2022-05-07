@@ -39,7 +39,7 @@ ALTER PROCEDURE [dbo].[SP_MY_SKILLS] AS
 - PHP + HTML.
 
 --- 
-### Me puedes contactar por una de estas vías  📫
+### Me puedes contactar por alguna de estas vías  📫
 
 - [LinkedIn](https://www.linkedin.com/in/luis-enrique-pacheco-arana/)
 - [GitHub](https://github.com/LuisPacharan/)
