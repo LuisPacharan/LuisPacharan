@@ -41,6 +41,7 @@ ALTER PROCEDURE [dbo].[SP_MY_SKILLS] AS
 --- 
 ### Me puedes contactar por alguna de estas vías  📫
 
+- [Web Personal](https://luispacharan.github.io/luispachecoarana.github.io/)
 - [LinkedIn](https://www.linkedin.com/in/luis-enrique-pacheco-arana/)
 - [GitHub](https://github.com/LuisPacharan/)
 - [Medium](https://medium.com/@pacheco.arana.luis)
