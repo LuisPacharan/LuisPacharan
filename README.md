@@ -33,7 +33,7 @@ ALTER PROCEDURE [dbo].[SP_MY_SKILLS] AS
 
 - Extracción,Transformación y Carga de Datos (ETL).
 - Elaboración de DTS mediante (SSIS) SQL Server Integrations Services con Visual Studio.
-- Microsoft SQL Server, atomatización de procesos (scheduled jobs,stored procedures). 
+- Microsoft SQL Server, DDL, DML, atomatización de procesos (scheduled jobs,stored procedures). 
 - MySQL, Teradata, DBVisualizer.
 - Análisis Exploratio de Datos (EDA) con Python.
 - PHP + HTML.
