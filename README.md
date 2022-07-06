@@ -37,6 +37,7 @@ ALTER PROCEDURE [dbo].[SP_MY_SKILLS] AS
 - MySQL, Teradata, DBVisualizer.
 - Análisis Exploratio de Datos (EDA) con Python.
 - PHP + HTML.
+- En constante aprendizaje con las nuevas tecnologías de Información.
 
 --- 
 ### Me puedes contactar por alguna de estas vías  📫
