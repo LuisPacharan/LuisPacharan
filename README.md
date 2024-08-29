@@ -11,7 +11,7 @@ ALTER PROCEDURE [dbo].[SP_MY_SKILLS] AS
 	BEGIN
 	
 		declare @Databases table (databases char(20))
-		 insert into @Databases values ('SQLServer'), ('MySQL'), ('PostgreSQL')
+		 insert into @Databases values ('SQLServer'), ('MySQL'), ('PostgreSQL'), ('BigQuery')
 		  select * from @Databases
 
 		declare @Frontend table (softwareF char(20))
@@ -19,11 +19,11 @@ ALTER PROCEDURE [dbo].[SP_MY_SKILLS] AS
 		  select * from @Frontend
 
 		declare @Backend table (softwareB char(20))
-		 insert into @Backend values ('PHP'), ('Python')
+		 insert into @Backend values ('PHP'), ('Python') ,('Selenium')
 		  select * from @Backend
 
 		declare @Frameworks table (Frameworks char(20))
-		 insert into @Frameworks values ('MSSQLServer'),('Teradata'), ('DBVisualizer'), ('Jupyter'),('VSCode')
+		 insert into @Frameworks values ('MSSQLServer'),('Teradata'), ('DBVisualizer'), ('Jupyter'), ('VSCode'), ('GCP')
 		  select * from @Frameworks
 	END
 ```
