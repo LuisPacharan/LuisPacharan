@@ -31,14 +31,14 @@ ALTER PROCEDURE [dbo].[SP_MY_SKILLS] AS
 
 ### Mis Competencias son
 
-- Extracción,Transformación y Carga de Datos (ETL).
+- Extracción,Transformación y Carga de Datos (ETL / ELT).
 - Elaboración de DTS mediante (SSIS) SQL Server Integrations Services con Visual Studio.
-- Microsoft SQL Server, DDL, DML, atomatización de procesos (scheduled jobs,stored procedures, trigger). 
-- MySQL, Oracle PL/SQL, Teradata, DBVisualizer,SQL Developer.
+- Microsoft SQL Server, DDL, DML, atomatización de procesos (scheduled jobs,stored procedures, triggers). 
+- MySQL, Oracle PL/SQL, Teradata, DBVisualizer,SQL Developer, BigQuery GCP.
 - Análisis Exploratio de Datos (EDA) con Python.
 - PHP,HTML,CSS,C#.
-- Tester QA - RPA Robocorp.
-- En constante aprendizaje con las nuevas tecnologías de Información...
+- Tester QA / Automatización de Procesos mediante - RPA Robocorp, Selenium, Pandas.
+- En constante aprendizaje de nuevas herramientas en Tecnologías de Información (TI). 
 
 --- 
 ### Me puedes contactar por alguna de estas vías  📫
