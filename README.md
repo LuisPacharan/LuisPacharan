@@ -4,7 +4,7 @@ USE [DB_LUIS_PACHARAN]
 GO
 -- =============================================
 -- Author: <Luis Enrique,Pacheco A>
--- Description:	<Database developer & Data Specialist, CDMX, México>
+-- Description:	<Database Developer & Data Engineer, CDMX, México>
 -- =============================================
 ALTER PROCEDURE [dbo].[SP_MY_SKILLS] AS
 
