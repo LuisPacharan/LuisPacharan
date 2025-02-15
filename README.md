@@ -11,7 +11,7 @@ ALTER PROCEDURE [dbo].[SP_MY_SKILLS] AS
 	BEGIN
 	
 		declare @Databases table (databases char(20))
-		 insert into @Databases values ('SQLServer'), ('MySQL'), ('PostgreSQL'), ('BigQuery')
+		 insert into @Databases values ('SQLServer'), ('MySQL'), ('PostgreSQL'), ('BigQuery') , ('NoSQL')
 		  select * from @Databases
 
 		declare @Frontend table (softwareF char(20))
